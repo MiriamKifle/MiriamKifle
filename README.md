@@ -1,5 +1,14 @@
 # Hi there 👋 ,  I'm Miriam!
 
+<p align="center">
+  <img width="60%" height="20%" src="banner.png">
+</p>
+
+
+I am a Software Engineer based in Boston, MA proficient in both frontend and backend development with extensive knowledge in Javascript, Node.Js, MongoDB, HTML, CSS, and React.
+
+When I’m not coding, you can find me cozied up with a good book or jamming to great music.
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
