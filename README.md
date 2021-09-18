@@ -24,7 +24,7 @@ const miriam = {
 
 
 ## Find me around the web 🌎: <a href=""><img align="left" width="150" height="150" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"></a>
-- Learning in public on <a href="https://codepen.io/MIRIYUZ">Codepen</a> or <a href="https://www.miriamkifle.dev">miriamdev.netlify.app</a> 📹 ✍🏾
+- Learning in public on <a href="https://codepen.io/MIRIYUZ">Codepen</a> or <a href="https://miriamkifledev.netlify.app/">miriamkiflede.netlify.app</a> 📹 ✍🏾
 - Tweeting on <a href="https://twitter.com/miriamkifle"> Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/miriam-kifle/">LinkedIn</a> 💼
 
