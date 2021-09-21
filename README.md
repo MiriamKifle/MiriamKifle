@@ -1,7 +1,7 @@
 # Hi there 👋 ,  I'm Miriam!
 
 <p> 
-I am a Software Engineer based in Boston, MA.  I am proficient in both frontend and backend development, with extensive knowledge of Javascript, Node.Js, MongoDB, HTML, CSS, and React. When I’m not coding, you can find me cozied up with a good book or jamming to great music.
+I am a Software Engineer based in Boston, MA, poficient in frontend and backend development, with extensive knowledge of Javascript, HTML, CSS, Node.Js, MongoDB, and React. When I’m not coding, you can find me cozied up with a good book or jamming to great music.
 </p> 
 
 <p align="center">
