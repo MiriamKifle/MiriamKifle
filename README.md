@@ -14,7 +14,7 @@ I am a Software Engineer based in Boston, MA, poficient in frontend and backend 
 
 
 ## Find me around the web 🌎: <a href=""><img align="left" width="150" height="150" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"></a>
-- Learning in public on <a href="https://miriamkifledev.netlify.app/">miriamkiflede.netlify.app</a> 📹 ✍🏾
+- Learning in public on <a href="https://miriamkifledev.netlify.app/">miriamkifledev.app</a> 📹 ✍🏾
 - Tweeting on <a href="https://twitter.com/miriamkifle"> Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/miriam-kifle/">LinkedIn</a> 💼
 
